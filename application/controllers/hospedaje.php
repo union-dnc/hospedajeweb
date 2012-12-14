@@ -2,8 +2,12 @@
 
 class Hospedaje extends CI_Controller {
 
-	public function index()
-	{
-		$this->load->view('welcome_message');
+	function index() {
+		$data['title'] = 'HospedajeWeb.com';
+		$data['section'] = 'inicio';
+		$this->load->view('general/header_view',$data);
+		$this->load->view('front/index_view');
+		$this->load->view('general/footer_view');
 	}
+
 }
