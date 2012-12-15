@@ -16,7 +16,7 @@
 		</div>
 		<div id="promo">
 			<div class="promo_slide" id="banner_a">
-				<h2><span>RESELLER</span> Hosting Made Easy and Affordable!</h2>
+				<h2><strong>RESELLER</strong> Hosting Made Easy and Affordable!</h2>
 				<ul>
 					<li>Unlimited Storage</li>
 					<li>Unlimited Monthly Bandwidth</li>
@@ -112,40 +112,9 @@
 			</div>
 			<div class="clear"></div>
 		</div>
-		<div class="editable"><h2>Why Prefer LiveWeb</h2></div>
-			<div id="prefer">
-				<div  id="service_red" class="element_liveweb editable">
-					<span></span>
-					<div class="editable">
-						<h4>24 / 7 Professional Support</h4>
-						<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
-					</div>
-				</div>
-				<div  id="service_yellow" class="element_liveweb editable">
-					<span></span>
-					<div class="editable">
-						<h4>24 / 7 Professional Support</h4>
-						<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
-					</div>
-				</div>
-				<div  id="service_green" class="element_liveweb editable">
-					<span></span>
-					<div class="editable">
-						<h4>100% Network and Uptime</h4>
-						<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
-					</div>
-				</div>
-				<div  id="service_gray" class="element_liveweb editable">
-					<span></span>
-					<div class="editable">
-						<h4>24 / 7 Professional Support</h4>
-						<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
-					</div>
-				</div>
-				<div class="clear"></div>
-			</div>
-		</div>
+		<div class="editable" id="why"><h2>Why Prefer LiveWeb</h2></div>
 	</div>
+</div>
 
 
 

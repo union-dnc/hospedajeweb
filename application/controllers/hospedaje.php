@@ -7,6 +7,7 @@ class Hospedaje extends CI_Controller {
 		$data['section'] = 'inicio';
 		$this->load->view('general/header_view',$data);
 		$this->load->view('front/index_view');
+		$this->load->view('front/prefer_view');
 		$this->load->view('general/footer_view');
 	}
 

@@ -112,7 +112,7 @@ body{
 	background: #fff;
 }*/
 /*Index Page*/
-#index{
+#index, #planes_section{
 	background: url(../images/bannerconbg.png) repeat;
 	padding-top: 20px;
 }
@@ -223,7 +223,7 @@ body{
 	left: 362px;
 	text-align: center;
 }
-#plans h2{
+#plans h2, #our_plans h2{
 	text-align: center;
 	padding: 10px;
 	border: 1px solid #aaa;
@@ -301,6 +301,9 @@ body{
 #plans .pricing .button{
 	margin-left: 44px;
 }
+#why{
+	margin-bottom: 20px;
+}
 #prefer{
 	margin: 20px 0;
 }
@@ -342,9 +345,28 @@ body{
 #prefer #service_gray span{
 	background: url(../images/backup.png) no-repeat;
 }
-
-
-
+/*Plans*/
+#planes_section{
+	padding: 5px;
+}
+#planes_section div{
+	width: 950px;
+	height: 192px;
+	padding-top: 30px;
+	background: url(../images/bannersub.jpg) no-repeat;
+}
+#planes_section div h2{
+	margin: 0 0 0 50px;
+	font-size: 30px;
+}
+#planes_section div h2 strong{
+	font-size: 50px;
+	color: #53d800;
+	text-shadow: 1px 1px 1px #aaa;
+}
+#our_plans h2{
+	margin: 20px 0;
+}
 
 
 
