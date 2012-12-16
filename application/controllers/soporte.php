@@ -6,6 +6,8 @@ class Soporte extends CI_Controller {
 		$data['title'] = 'Soporte - HospedajeWeb.com';
 		$data['section'] = 'soporte';
 		$this->load->view('general/header_view',$data);
+		$this->load->view('front/affordable_view');
+		$this->load->view('front/prefer_view');
 		$this->load->view('general/footer_view');	
 	}
 

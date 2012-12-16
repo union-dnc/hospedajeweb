@@ -112,7 +112,7 @@
 			</div>
 			<div class="clear"></div>
 		</div>
-		<div class="editable" id="why"><h2>Why Prefer LiveWeb</h2></div>
+		<div class="editable" id="why"><h2>Porque preferir HospedajeWeb.com</h2></div>
 	</div>
 </div>
 
